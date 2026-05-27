@@ -31,7 +31,7 @@ A command-line network scanning tool built in Python that discovers live hosts, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-scanner.git
+git clone https://github.com/SanghaviSegver/network-scanner.git
 cd network-scanner
 ```
 
