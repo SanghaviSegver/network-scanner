@@ -145,5 +145,4 @@ This tool is intended for educational purposes and use on networks you own or ha
 **Sanghavi S**  
 B.E. Computer Science Engineering  
 Interested in Network Engineering | Python | Linux | MERN Stack  
-[LinkedIn](https://www.linkedin.com/in/sanghavi-s-721416215/) |
-[GitHub](https://github.com/SanghaviSegver)
+[LinkedIn](https://www.linkedin.com/in/sanghavi-s-721416215/) | [GitHub](https://github.com/SanghaviSegver)
